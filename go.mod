@@ -1,3 +1,3 @@
-module github.com/Azure/go-ntlmssp
+module github.com/SwampDragons/go-ntlmssp
 
 go 1.13
